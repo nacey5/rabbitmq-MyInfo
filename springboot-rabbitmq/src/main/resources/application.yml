@@ -1,0 +1,13 @@
+spring:
+  rabbitmq:
+    host: 192.168.48.129
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: my_vhost
+    publisher-confirm-type: correlated
+    publisher-returns: true
+  #解决报空指针的错误
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
