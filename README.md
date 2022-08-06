@@ -11,4 +11,4 @@
 
 ## 架构图
 
-[!架构图实例](https://github.com/nacey5/rabbitmq-MyInfo/blob/master/mq_Default1.png)
+[架构图实例](https://github.com/nacey5/rabbitmq-MyInfo/blob/master/mq_Default1.png)
